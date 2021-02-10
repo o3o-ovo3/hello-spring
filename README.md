@@ -8,7 +8,7 @@ Spring &amp; Spring Boot 실습 프로젝트
 
 💗 2021/02/10 View 환경 설정
 
-<img src='resources/0210.JPG' width='300px'>
+<img src='prac_log/0210.JPG' width='300px'>
 
 <hr>
 
