@@ -22,7 +22,7 @@ public class MemoryMemberRepository implements MemberRepository{
     }
 
     @Override
-    public Optional<Member> findById(String name) {
+    public Optional<Member> findByName(String name) {
         return store.values().stream()
                 .filter(member -> member.getName().equals(name)).findAny();
         // 루프를 돌아서 Map에서 찾아 하나라도 찾으면 반환, 없으면 null이 Optional로 감싸서 반환됨
