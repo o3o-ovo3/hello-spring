@@ -13,7 +13,6 @@ Spring &amp; Spring Boot 실습 프로젝트
 <hr>
 💗 2021/02/10 정적 컨텐츠
 
-
 <img src='prac_log/0210-2.JPG' width='300px'>
 
 <hr>
@@ -43,3 +42,9 @@ Spring &amp; Spring Boot 실습 프로젝트
 💗 2021/02/15 회원 웹 기능 - 조회
 
 <img src='prac_log/0215-3.JPG' width='300px'>
+
+<hr>
+
+💗 2021/02/16 순수 JDBC
+
+<img src='prac_log/0216-1.JPG' width='300px'>
