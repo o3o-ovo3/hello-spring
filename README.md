@@ -53,11 +53,11 @@ Spring &amp; Spring Boot 실습 프로젝트
 
 💗 2021/02/16 JPA & 스프링 데이터 JPA 실습
 
-<img src='prac_log/0216-2.JPG' width='300px'>
+<img src='prac_log/0216-2.JPG' width='450px'>
 
 <hr>
 
 💗 2021/02/16 AOP 적용 (시간 측정 로직)
 
-<img src='prac_log/0216-3.JPG' width='300px'>
+<img src='prac_log/0216-3.JPG' width='450px'>
 
